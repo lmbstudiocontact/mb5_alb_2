@@ -1,33 +1,72 @@
 [
   {
-    "title": "Butterfly_L3",
-    "link_thumb": "https://live.staticflickr.com/65535/51695573513_89f68aa8a8_o.gif",
-    "id_album": "657564371",
-    "total": 6,
+    "title": "Mickey Cartoon_L3",
+    "link_thumb": "https://live.staticflickr.com/65535/51780852024_e85603e705_o.gif",
+    "id_album": "1680949824",
+    "total": 22,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_657564371_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1680949824_index_0.json"
       }
     ]
   },
   {
-    "title": "Panda_L7",
-    "link_thumb": "https://live.staticflickr.com/65535/51702335281_a0a1a3b94c_o.gif",
-    "id_album": "1123959312",
-    "total": 11,
+    "title": "Tiger_L7",
+    "link_thumb": "https://live.staticflickr.com/65535/51703065462_2f4f7fb099_o.gif",
+    "id_album": "2111354123",
+    "total": 2,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1123959312_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_2111354123_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Raccoons_L3",
+    "link_thumb": "https://live.staticflickr.com/65535/51703560078_e9d247bb72_o.gif",
+    "id_album": "1998705266",
+    "total": 20,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1998705266_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Poke_L7",
+    "link_thumb": "https://live.staticflickr.com/65535/51703597525_c11224a606_o.gif",
+    "id_album": "1265605553",
+    "total": 44,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1265605553_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Ghibli Anime_L1",
+    "link_thumb": "https://live.staticflickr.com/65535/51780821384_30de448035_o.gif",
+    "id_album": "-749595047",
+    "total": 17,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-749595047_index_0.json"
       }
     ]
   },
   {
     "title": "Doraemon Anime_L5",
-    "link_thumb": "https://live.staticflickr.com/65535/51697535724_1b5b06e50c_o.gif",
+    "link_thumb": "https://live.staticflickr.com/65535/51779358092_07a5bfb17a_o.gif",
     "id_album": "405661395",
     "total": 16,
     "size_max_detail_page": 1,
@@ -39,80 +78,45 @@
     ]
   },
   {
-    "title": "Marvel_DC",
-    "link_thumb": "https://live.staticflickr.com/65535/51694016631_2f002baa3b_o.gif",
-    "id_album": "1384868639",
-    "total": 5,
+    "title": "Halloween Ghost Witch_L4",
+    "link_thumb": "https://live.staticflickr.com/65535/51779362287_3b934159c3_o.gif",
+    "id_album": "1746571236",
+    "total": 49,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1384868639_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1746571236_index_0.json"
       }
     ]
   },
   {
-    "title": "One Punch Man Anime_L1",
-    "link_thumb": "https://live.staticflickr.com/65535/51702166748_fdd3e35325_o.gif",
-    "id_album": "-1626855614",
-    "total": 2,
+    "title": "Death Note Anime_L4",
+    "link_thumb": "https://live.staticflickr.com/65535/51779350467_e4048203f0_o.gif",
+    "id_album": "-374116171",
+    "total": 8,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1626855614_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-374116171_index_0.json"
       }
     ]
   },
   {
-    "title": "Mifit Store",
-    "link_thumb": "https://live.staticflickr.com/65535/51700056226_61ee9c6bd6_o.gif",
-    "id_album": "-583089738",
-    "total": 44,
-    "size_max_detail_page": 1,
+    "title": "Other_L6",
+    "link_thumb": "https://live.staticflickr.com/65535/51701322012_ba3cbd1a50_o.gif",
+    "id_album": "-1106495207",
+    "total": 54,
+    "size_max_detail_page": 2,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-583089738_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Sheep_L6",
-    "link_thumb": "https://live.staticflickr.com/65535/51703612911_553804ae10_o.gif",
-    "id_album": "-576277778",
-    "total": 2,
-    "size_max_detail_page": 1,
-    "list_detail": [
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1106495207_index_0.json"
+      },
       {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-576277778_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Wolf_L5",
-    "link_thumb": "https://live.staticflickr.com/65535/51704260673_655dc8c8a7_o.gif",
-    "id_album": "-1110849962",
-    "total": 5,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1110849962_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Moana Cartoon_L5",
-    "link_thumb": "https://live.staticflickr.com/65535/51701192939_58ccfbd28e_o.gif",
-    "id_album": "-2101867512",
-    "total": 13,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-2101867512_index_0.json"
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1106495207_index_1.json"
       }
     ]
   }
