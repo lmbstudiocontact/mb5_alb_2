@@ -1,33 +1,7 @@
 [
   {
-    "title": "Mickey Cartoon_L2",
-    "link_thumb": "https://live.staticflickr.com/65535/51780854049_8254228b38_o.gif",
-    "id_album": "1680949823",
-    "total": 22,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1680949823_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Lion_L7",
-    "link_thumb": "https://live.staticflickr.com/65535/51700293833_afc4a8be20_o.gif",
-    "id_album": "1842745422",
-    "total": 3,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1842745422_index_0.json"
-      }
-    ]
-  },
-  {
     "title": "Angry Birds_L4",
-    "link_thumb": "https://live.staticflickr.com/65535/51780809094_70d16b3b9a_o.gif",
+    "link_thumb": "https://live.staticflickr.com/65535/51787844324_2fdf12a449_o.gif",
     "id_album": "2112729292",
     "total": 26,
     "size_max_detail_page": 1,
@@ -39,80 +13,118 @@
     ]
   },
   {
-    "title": "Angry Birds_L3",
-    "link_thumb": "https://live.staticflickr.com/65535/51781062715_e0b4d44790_o.gif",
-    "id_album": "2112729291",
-    "total": 26,
-    "size_max_detail_page": 1,
+    "title": "Bear_L6",
+    "link_thumb": "https://live.staticflickr.com/65535/51787199391_dd45a40f3e_o.gif",
+    "id_album": "1430316469",
+    "total": 70,
+    "size_max_detail_page": 2,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_2112729291_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1430316469_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1430316469_index_1.json"
       }
     ]
   },
   {
-    "title": "Animal_L7",
-    "link_thumb": "https://live.staticflickr.com/65535/51694649666_d4bf939298_o.gif",
-    "id_album": "-1172738450",
-    "total": 28,
+    "title": "Unicorn_L7",
+    "link_thumb": "https://live.staticflickr.com/65535/51787255646_2c31df5f55_o.gif",
+    "id_album": "-1508743534",
+    "total": 20,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1172738450_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1508743534_index_0.json"
       }
     ]
   },
   {
-    "title": "Halloween Ghost Witch_L1",
-    "link_thumb": "https://live.staticflickr.com/65535/51779399787_5347fee290_o.gif",
-    "id_album": "1746571233",
+    "title": "Marvel_DC",
+    "link_thumb": "https://live.staticflickr.com/65535/51786406297_b78853c16e_o.gif",
+    "id_album": "1384868639",
+    "total": 5,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1384868639_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "My Melody Bunny_L6",
+    "link_thumb": "https://live.staticflickr.com/65535/51787489918_42339abda0_o.gif",
+    "id_album": "1796214687",
     "total": 49,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1746571233_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1796214687_index_0.json"
       }
     ]
   },
   {
-    "title": "Onmyoji_L2",
-    "link_thumb": "https://live.staticflickr.com/65535/51702583689_6e8617a659_o.gif",
-    "id_album": "389318914",
-    "total": 26,
+    "title": "Raccoons_L5",
+    "link_thumb": "https://live.staticflickr.com/65535/51787516558_69fcc6b24c_o.gif",
+    "id_album": "1998705268",
+    "total": 20,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_389318914_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1998705268_index_0.json"
       }
     ]
   },
   {
-    "title": "Couple Art_L7",
-    "link_thumb": "https://live.staticflickr.com/65535/51781061910_b10a712188_o.gif",
-    "id_album": "1239230759",
-    "total": 48,
-    "size_max_detail_page": 1,
+    "title": "Pokmon Anime_L3",
+    "link_thumb": "https://live.staticflickr.com/65535/51787523073_503f366850_o.gif",
+    "id_album": "-555824142",
+    "total": 108,
+    "size_max_detail_page": 3,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1239230759_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-555824142_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-555824142_index_1.json"
+      },
+      {
+        "index_page": 2,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-555824142_index_2.json"
       }
     ]
   },
   {
-    "title": "Mocmoc_L7",
-    "link_thumb": "https://live.staticflickr.com/65535/51700880313_2d59e3c6d3_o.gif",
-    "id_album": "-661938806",
-    "total": 31,
+    "title": "Smurf Houses Cartoon_L2",
+    "link_thumb": "https://live.staticflickr.com/65535/51786456402_1fb303f0c7_o.gif",
+    "id_album": "228264851",
+    "total": 4,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-661938806_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_228264851_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Wolf_L3",
+    "link_thumb": "https://live.staticflickr.com/65535/51787503098_2b9fd6a79b_o.gif",
+    "id_album": "-1110849964",
+    "total": 5,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1110849964_index_0.json"
       }
     ]
   }
